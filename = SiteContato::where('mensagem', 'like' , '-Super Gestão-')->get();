@@ -1,0 +1,25 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#4382
+    [34mall[39m: [
+      [34;4mApp\SiteContato[39;24m {#4288
+        [34mid[39m: [35m2[39m,
+        [34mcreated_at[39m: "[32m2023-04-18 18:18:13[39m",
+        [34mupdated_at[39m: "[32m2023-04-18 18:18:13[39m",
+        [34mnome[39m: "[32mJorge[39m",
+        [34mtelefone[39m: "[32m(98) 984574870[39m",
+        [34memail[39m: "[32mffclaudenir1995@gmail.com[39m",
+        [34mmotivo_contato[39m: [35m1[39m,
+        [34mmensagem[39m: "[32mÓla gostaria de mais detalhes sobre o Super gestão[39m",
+      },
+      [34;4mApp\SiteContato[39;24m {#4381
+        [34mid[39m: [35m3[39m,
+        [34mcreated_at[39m: "[32m2023-04-18 18:32:54[39m",
+        [34mupdated_at[39m: "[32m2023-04-18 18:32:54[39m",
+        [34mnome[39m: "[32mlucas[39m",
+        [34mtelefone[39m: "[32m(98) 988115875[39m",
+        [34memail[39m: "[32mclaudenir_fox@hotmail.com[39m",
+        [34mmotivo_contato[39m: [35m2[39m,
+        [34mmensagem[39m: "[32mEstou gostando muito do super gestão[39m",
+      },
+    ],
+  }
+
